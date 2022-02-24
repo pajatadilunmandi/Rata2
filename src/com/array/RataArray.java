@@ -2,6 +2,7 @@ package com.array;
 
 import java.util.Scanner;
 
+// author : Diona Putra XI RPL 1
 public class RataArray {
     public static void main(String[] args){
 
